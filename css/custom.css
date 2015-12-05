@@ -1,0 +1,143 @@
+body {
+	max-width: 1024px;
+	font-family: Helvetica, Arial, sans-serif;
+    background-color: #7BDBBE;
+}
+
+button {
+	width: 44px;
+	height: 44px;
+    border-radius: 10px;
+    text-align:center;
+    color: #DBE1D1;
+    cursor: pointer;
+    background-color:#CCF1D3; 
+}
+
+#btn0{
+     position: absolute;
+    top:10px;
+    right: 279px;
+   
+}
+#btn1{
+  position: absolute;
+    top: 10px;
+    right: 235px;   
+    
+}
+#btn2{
+  position: absolute;
+    top:10px;
+    right:191px;  
+}
+#btn3{
+ position: absolute;
+    top: 10px;
+    right: 147px;   
+    
+}
+#btn4{
+  position: absolute;
+    top:10px;
+    right:103px;    
+    
+}
+#btn5{
+    position: absolute;
+    top:10px;
+    right:59px;
+}
+
+#prev{
+  position: absolute;
+    top:10px;
+    right: 323px;
+    
+}
+#next{
+    position: absolute;
+    top:10px;
+    right:15px;
+    
+   
+}
+
+#content {
+	width: 1000px;
+    margin: 0 auto;
+}
+
+.titleArea {
+	position: absolute;
+	top: 0px;
+/*    left: 20px;*/
+/*	padding: 18px;*/
+    width:800px;
+    text-align: center;
+	background-color: #E3F7DD ;
+ font-size: 30px;
+    color: #FBBD82;
+	
+}
+
+.titleArea > h2 {
+/*	font-size: 50px;*/
+/*    color: #FBBD82;*/
+}
+
+.slide {
+    position: relative;
+    top:10px;
+    left: 20px;
+	width: 800px;
+	height: 600px;
+	overflow:hidden;
+    background-color:  #E3F7DD;
+    border: 4px dotted #FBBD82;
+    font-family: math;
+    color:#FBBD82;
+}
+
+#slide0{
+  border: 4px dotted #FBBD82;
+    text-align: center;
+     background-color: #F8E0A2 ;
+    margin: 0 auto;    
+  
+}
+
+#img0{
+  width:0px;
+    height:0px;
+}
+
+#titleArea0{
+   font-size: 50px; 
+font-family: money;
+    color: #4FCCAD;
+    background-color: #F8E0A2 ;
+}
+
+#sub0{
+    
+font-size: 30px; 
+font-family: math;
+    color: #4FCCAD;
+}
+
+
+
+
+header{
+    position: relative;
+    width: 100%;
+    min-height: 70px; 
+font-family: money;
+    color: #4FCCAD;
+    text-shadow: 2px 2px 2px #888888;
+     background-color: #F8E0A2 ;
+     border: 4px dotted #FBBD82;
+}
+
+

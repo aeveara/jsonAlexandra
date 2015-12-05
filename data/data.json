@@ -1,0 +1,33 @@
+{
+  "slides": [  
+    {
+      "title": "How to $ave Dat Money",
+      "description": "Financial Advice from Lil Dicky and Fetty Wap "
+    },
+    {
+      "title": "I wear the same jeans everyday",
+      "description": "Monday, Tuesday, Wednesday, Thursday, Friday",
+      "image": "img/jeans.png "
+    },
+    {
+      "title": "I ain't never hit a bar with a cover",
+      "description": "don't double charge me",
+      "image": "img/bar.png"
+    },
+    {
+      "title": "I ain't parkin' that unless the meters green, homie",
+      "description": "don't double charge me",
+      "image": "img/jeep.png"
+    },
+    {
+      "title": "Coppin sweaters in the summer when the sale on them",
+      "description": "don't double charge me",
+      "image": "img/sweater.png"
+    },
+    {
+      "title": "I get logins for the Netflix from my cousin Greg. Thanks Greg!",
+      "description": "don't double charge me",
+      "image": "img/netflix.png"
+    }
+  ]
+}
